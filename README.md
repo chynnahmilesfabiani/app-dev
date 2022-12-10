@@ -3,7 +3,6 @@ My first repository
 
 ** favorite series/movies **
 
-
 ## Harry Potter
 
 ### There are 8 Harry Potter movie adaptations and these are:
