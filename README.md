@@ -16,6 +16,6 @@ My first repository
 - Harry Potter And The Deathly Hallows Part 1 (2010)
 - Harry Potter And The Deathly Hallows Part 2 (2011)
 
-* Harry Potter only have 7 books *
+** Harry Potter only have 7 books **
 
-[for more info click here: ](https://en.wikipedia.org)
+[for more info click here ](https://en.wikipedia.org)
